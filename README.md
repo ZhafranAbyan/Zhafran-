@@ -1,3 +1,8 @@
-# Zhafran-
+# Halo, Saya Zhafran Abyan 👋
 
-'tes"
+## Profil singkat
+- Mahasiswa Geofisika angkatan 2024 universitas gadjah mada
+
+## Projek yang Sedang Dikerjakan
+- Praktikum Metode Komputasi: latihan Git, GitHub, dan Markdown
+- Eksperimen dengan Python untuk analisis data sederhana
